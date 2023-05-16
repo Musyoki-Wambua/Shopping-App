@@ -1,0 +1,82 @@
+const Sdata = {
+    shopItems: [
+      {
+        id: 7,
+        cover: "https://t4.ftcdn.net/jpg/02/81/01/63/220_F_281016384_UHOlALycE33EDbvntugC01xPmq2xvdiF.jpg",
+        name: "iPhone X",
+        price: "90000",
+        discount: "3",
+      },
+      {
+        id: 8,
+        cover: "https://t3.ftcdn.net/jpg/05/32/11/36/220_F_532113642_VXJbHLq4o4QHO6NY7zpb3POQR6WLu2GE.jpg",
+        name: "iPhone 14",
+        price: "140000",
+        discount: "5",
+      },
+      {
+        id: 9,
+        cover: "https://t4.ftcdn.net/jpg/04/25/49/01/220_F_425490179_UbSlPt74bTHDwSzEUVAuZF7wRG7twFFG.jpg",
+        name: "Wireless gamepads and Xbox console",
+        price: "40000",
+        discount: "9",
+      },
+      {
+        id: 10,
+        cover: "https://t3.ftcdn.net/jpg/04/42/39/06/240_F_442390640_T2Nw6DLaWGY2OoiA2lp7aqHtyoktRLle.jpg",
+        name: " PlayStation 5 Controller",
+        price: "5000",
+        discount: "8",
+      },
+      {
+        id: 11,
+        cover: "https://t3.ftcdn.net/jpg/00/42/02/56/240_F_42025680_1ZPOA3N0B2nkGHqzMpIvhSRGxMiuk5uc.jpg",
+        name: "BaskeyBall Ball",
+        price: "8000",
+        discount: "7 ",
+      },
+      {
+        id: 12,
+        cover: "https://t4.ftcdn.net/jpg/02/68/82/01/240_F_268820156_h529a1tGdCNk0zI91D9PKjONaxRnpeYN.jpg",
+        name: "Tennis Ball",
+        price: "1200",
+        discount: "8",
+      },
+      {
+        id: 13,
+        cover: "https://t3.ftcdn.net/jpg/00/68/58/72/240_F_68587213_2qGDRbHo5jAvkbg6dqHspmiehASINtTF.jpg",
+        name: ' 65" Samsung Smart TV',
+        price: "60000",
+        discount: "6",
+      },
+      {
+        id: 14,
+        cover: "https://t4.ftcdn.net/jpg/05/23/92/77/240_F_523927714_YIZMiHvyhTgtImf2PNzaBm5m2Wx2NGo5.webp",
+        name: "Polyester Necktie",
+        price: "500",
+        discount: "9",
+      },
+      {
+        id: 15,
+        cover: "https://t3.ftcdn.net/jpg/00/98/33/16/240_F_98331626_bkP5clniyUjIL4eoAtZoh1bIIe6XxnGP.jpg",
+        name: "Yello TimberLand Boots",
+        price: "6500",
+        discount: "5",
+      },
+      {
+        id: 16,
+        cover: "https://t3.ftcdn.net/jpg/00/58/24/54/240_F_58245420_KriXmYEczt258DvW4WmSRgeYpG5eUIZf.jpg",
+        name: "Men's Hiking Boots",
+        price: "8500",
+        discount: "4",
+      },
+      {
+        id: 17,
+        cover: "https://t3.ftcdn.net/jpg/04/03/84/08/240_F_403840892_lvTP8UrWYEOGORj0SSimRl4TxLfBbi0D.jpg",
+        name: "Men's Leather Brown TimberLand Boots",
+        price: "8500",
+        discount: "5",
+      },
+    ],
+  }
+  export default Sdata
